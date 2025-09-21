@@ -1,0 +1,24 @@
+{
+  // 主界面
+  "bluetoothmultiplayer.screen.title": "蓝牙多人游戏",
+  "bluetoothmultiplayer.button.discover": "发现设备",
+  "bluetoothmultiplayer.button.discovering": "正在发现...",
+  "bluetoothmultiplayer.button.back": "返回",
+  "bluetoothmultiplayer.list.title": "已发现的蓝牙设备",
+  "bluetoothmultiplayer.device.unknown": "未知设备",
+  "bluetoothmultiplayer.discovery.failed": "发现失败: %s",
+  "bluetoothmultiplayer.remote_player.name": "远程玩家",
+
+  // 配置界面
+  "bluetoothmultiplayer.config.title": "蓝牙多人联机设置",
+  "bluetoothmultiplayer.config.precision.title": "数据包精度",
+  "bluetoothmultiplayer.config.precision.tiny": "极低（0位小数）",
+  "bluetoothmultiplayer.config.precision.low": "低（1位小数）",
+  "bluetoothmultiplayer.config.precision.medium": "中（2位小数）",
+  "bluetoothmultiplayer.config.precision.high": "高（3位小数）",
+  "bluetoothmultiplayer.config.close": "关闭",
+
+  // 按键绑定
+  "category.bluetoothmultiplayer.keys": "蓝牙多人游戏按键",
+  "key.bluetoothmultiplayer.open_screen": "打开蓝牙界面"
+}

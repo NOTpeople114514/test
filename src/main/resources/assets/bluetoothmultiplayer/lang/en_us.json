@@ -1,0 +1,24 @@
+{
+  //Main Screen
+  "bluetoothmultiplayer.screen.title": "Bluetooth Multiplayer",
+  "bluetoothmultiplayer.button.discover": "Discover Devices",
+  "bluetoothmultiplayer.button.discovering": "Discovering...",
+  "bluetoothmultiplayer.button.back": "Back",
+  "bluetoothmultiplayer.list.title": "Discovered Bluetooth Devices",
+  "bluetoothmultiplayer.device.unknown": "Unknown Device",
+  "bluetoothmultiplayer.discovery.failed": "Discovery Failed: %s",
+  "bluetoothmultiplayer.remote_player.name": "Remote Player",
+
+  //Config Screen
+  "bluetoothmultiplayer.config.title": "Bluetooth Multiplayer Settings",
+  "bluetoothmultiplayer.config.precision.title": "Data Packet Precision",
+  "bluetoothmultiplayer.config.precision.tiny": "Tiny (0 decimal place)",
+  "bluetoothmultiplayer.config.precision.low": "Low (1 decimal place)",
+  "bluetoothmultiplayer.config.precision.medium": "Medium (2 decimal places)",
+  "bluetoothmultiplayer.config.precision.high": "High (3 decimal places)",
+  "bluetoothmultiplayer.config.close": "Close",
+
+  //Key Bindings
+  "category.bluetoothmultiplayer.keys": "Bluetooth Multiplayer Keys",
+  "key.bluetoothmultiplayer.open_screen": "Open Bluetooth Screen"
+}
